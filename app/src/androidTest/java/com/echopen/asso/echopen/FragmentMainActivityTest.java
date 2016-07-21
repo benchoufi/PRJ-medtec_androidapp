@@ -36,7 +36,7 @@ import static android.support.test.espresso.matcher.ViewMatchers.withText;
 public class FragmentMainActivityTest extends ActivityInstrumentationTestCase2<MainActivity> {
 
     private ConstantDialogFragment constantDialogFragment;
-    
+
     public FragmentMainActivityTest() {
         super(MainActivity.class);
     }
